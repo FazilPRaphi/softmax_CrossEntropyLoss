@@ -1,0 +1,3 @@
+# add newdata in gitignore
+/newdata/
+/.pynb_checkpoints/
